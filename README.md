@@ -9,4 +9,4 @@
 ### Module 01 study schedule
 ![weekly_schedule](assets/module_01_schedule.png)
 
-Made by Vitor Afonso! Talk to [me](https://www.linkedin.com/in/vitor-rodrigues-dev/).
+Made by Vitor Tolentino! Talk to [me](https://www.linkedin.com/in/vitor-rodrigues-dev/).
